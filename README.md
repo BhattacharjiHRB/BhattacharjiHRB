@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhattacharjihrb&label=Profile%20views&color=0e75b6&style=flat" alt="bhattacharjihrb" /> </p>
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **Blockchain**
 
 - 👨‍💻 All of my projects are available at [https://hrittik-portfolio.vercel.app/](https://hrittik-portfolio.vercel.app/)
 
