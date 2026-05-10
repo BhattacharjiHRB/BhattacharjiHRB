@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Hrittik Bhattacharjee</h1>
 
 <h3 align="center">
-Frontend Developer | Next.js & React Enthusiast | Building Modern Web Experiences
+Full-Stack Developer | Next.js & React Enthusiast | Building Modern Web Experiences
 </h3>
 
 <p align="center">
