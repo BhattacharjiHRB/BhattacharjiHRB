@@ -46,7 +46,7 @@ Frontend Developer | Next.js & React Enthusiast | Building Modern Web Experience
 
 ### 💻 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,bootstrap,sass,html,css,framer" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,bootstrap,sass,html,css,framer,shadcnui" />
 </p>
 
 ### ⚙️ Backend & Database
