@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hi 👋, I'm Hrittik Bhattacharjee</h1>
 
 <h3 align="center">
@@ -87,4 +87,3 @@ Frontend Developer | Next.js & React Enthusiast | Building Modern Web Experience
 ## ✨ Fun Fact
 
 > I enjoy building software that solves real-world problems and continuously learning new technologies 🚀
-```
