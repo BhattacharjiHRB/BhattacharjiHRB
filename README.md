@@ -13,7 +13,6 @@ Full-Stack Developer | Next.js & React Enthusiast | Building Modern Web Experien
 
 ## 🚀 About Me
 
-- 🌱 Currently exploring **Blockchain & Web3**
 - 💻 Passionate about building scalable and modern web applications
 - ⚡ Love transforming ideas into interactive digital experiences
 - 💬 Ask me about **Next.js, React.js, TypeScript, APIs & Databases**
