@@ -51,17 +51,17 @@ Frontend Developer | Next.js & React Enthusiast | Building Modern Web Experience
 
 ### ⚙️ Backend & Database
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,sqlite,firebase,appwrite" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,mysql,postgresql,sqlite,firebase,appwrite,prisma,typeorm," />
 </p>
 
 ### 🔧 Tools & Platforms
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,nginx" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,nginx,vercel" />
 </p>
 
 ### 🧠 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,cs" />
+<img src="https://skillicons.dev/icons?i=cpp,cs,php,javascript" />
 </p>
 
 ---
